@@ -7,7 +7,7 @@
   "owner-verification": "princemayel99@gmail.com",
   
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {PRINCE-MDX~KhWdgduSiqW5Fm0RYCr9
       "description": "Must Start with 'PRINCE-MDX~'",
       "required": true,
       "value": ""
@@ -23,7 +23,8 @@
       "value": "Prince Tech"
     },
     "OWNER_NUMBER": {
-      "description": "Put only one Owner Number Here",
+      "description": "
+      93765126327",
       "required": true,
       "value": "237677224245"
     },
